@@ -1,0 +1,9 @@
+# Logs
+Logs
+*.log
+
+# Node Modules
+node_modules
+
+# Screencastify
+screencastify/
