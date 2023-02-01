@@ -46,6 +46,12 @@ const renderLicenseBadge = (license) => {
   
   ## Description
   ${data.description}
+
+  ## Screencastify Demonstration
+
+  Check out this video demonstrating the functionality of the project:
+
+  [Demonstration Video](https://drive.google.com/file/d/1JLWh7kadbP5G6OoqF_MUWjp2qefb3CL9/view)
   
   ## Table of Contents
   * [Installation](#installation)
